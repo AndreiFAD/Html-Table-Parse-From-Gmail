@@ -1,4 +1,4 @@
-# Html table read from Gmail
+# Html table read from HTML email
 It reads HTML table from Gmail and after reading, changes the label on email<br><br>
  
  line 12<br>
