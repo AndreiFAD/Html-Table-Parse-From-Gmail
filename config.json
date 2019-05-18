@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "gmailUSER": "email@domain.hu",
+      "gmailPASSWD": "emailpasswd",
+      "gmailFROMlabel": "input",
+      "gmailTOlabel": "output"
+    }
+  ]
+}

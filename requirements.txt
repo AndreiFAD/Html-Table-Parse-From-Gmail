@@ -1,0 +1,3 @@
+html_table_parser_python3==0.1.5
+cx_Freeze==5.1.1
+
