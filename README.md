@@ -7,6 +7,6 @@ Html table read from Gmail and change label<br><br>
 
 
 create run.bat file and add this line:<br>
-start /d "//full/path" Gmail_Tables_Read.exe<br>
+start /d "//fullpath/Gmail_Tables_Read" Gmail_Tables_Read.exe<br>
 <br>
 and create task in windows task scheduler <br>
