@@ -5,8 +5,8 @@
 Create two label in Gmail<br>
 example "input" and "output"<br>
 <img width="230" alt="Képernyőfotó 2019-05-18 - 20 21 02" src="https://user-images.githubusercontent.com/24839474/57973713-8d64b000-79ad-11e9-8f05-df21596e3406.png"><br>
-and create rule for label “input” in order to get the emails under that label<br>
-After the process it changes the label to “output”<br><br>
+and create rule for label "input" in order to get the emails under that label<br>
+After the process it changes the label to "output"<br><br>
 #### From this email:<br>
 <img width="519" alt="Képernyőfotó 2019-05-18 - 20 18 44" src="https://user-images.githubusercontent.com/24839474/57973717-95245480-79ad-11e9-94fd-5d91fe454639.png"><br><br>
 #### the script read this:<br>
