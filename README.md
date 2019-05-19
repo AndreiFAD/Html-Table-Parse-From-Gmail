@@ -1,5 +1,5 @@
-# Html table read from Gmail
-#### It reads HTML table from Gmail and after reading, changes the label on email<br><br>
+# Html table parse from Gmail
+#### It parse HTML table from Gmail and after reading, changes the label on email<br><br>
 
 #### If you receive data in your email body that you want to read<br>
 Create two label in Gmail<br>
