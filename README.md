@@ -9,7 +9,7 @@ and reate rule for label “input” in order to get the emails under that label
 After the process it changes the label to “output”<br><br>
 From this email:<br>
 <img width="519" alt="Képernyőfotó 2019-05-18 - 20 18 44" src="https://user-images.githubusercontent.com/24839474/57973717-95245480-79ad-11e9-94fd-5d91fe454639.png"><br><br>
-Read this:<br>
+the script read this:<br>
 <img width="670" alt="image" src="https://user-images.githubusercontent.com/24839474/57973733-ce5cc480-79ad-11e9-948f-91d9071a81ed.png"><br><br>
 In config.json file you can configurate your login data and labels name<br>
 After that you can do anything with data, example import to database or save it.<br><br>
