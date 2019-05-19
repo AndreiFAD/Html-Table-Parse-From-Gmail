@@ -14,7 +14,8 @@ After the process it changes the label to “output”<br><br>
 #### In config.json file you can configurate your login data and labels name<br>
 After that you can do anything with data, example import to database or save it.<br><br>
 
-#### If you want to build .exe use setup.py. Run this command in terminal:<br>
+#### If you want to build .exe use setup.py.<br>
+Run this command in terminal:<br>
 $ python setup.py build<br><br>
 
 #### create task in windows Task Scheduler<br>
